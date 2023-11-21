@@ -4,9 +4,9 @@
 *  No part of this assignment has been copied manually or electronically from any other source
 *  (including web sites) or distributed to other students.
 * 
-*  Name: Parmar pranjal   Student ID: 117504225   Date: Nov 20, 2023
+*  Name: Daniel Fu    Student ID: 153024229   Date: Nov 20, 2023
 *
-*  Online (Cyclic) URL: 
+*  Online (Cyclic) URL: https://champagne-meerkat-wrap.cyclic.app/blog
 *
 ********************************************************************************/ 
 
@@ -330,4 +330,3 @@ blogService.initialize().then(() => {
   }).catch(() =>{
     console.error(error);
 });
-
